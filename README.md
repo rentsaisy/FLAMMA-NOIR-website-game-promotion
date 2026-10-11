@@ -52,6 +52,9 @@ python -m http.server 8000
 
 Then open [http://localhost:8000](http://localhost:8000) in a browser.
 
+Or you can simply click this link:
+https://rentsaisy.github.io/FLAMMA-NOIR-website-game-promotion/
+
 ## Interactions
 
 - Use the navigation links to move between page sections.
